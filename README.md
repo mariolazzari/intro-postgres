@@ -29,3 +29,21 @@
 | Vertically scalable | Horizontally scalable |
 | Fixed schema        | Dynamic schema        |
 | ACID                | BASE                  |
+
+## Deploying PostgreSQL
+
+### Accessing PostgreSQL
+
+[Download](https://www.postgresql.org/download/)
+
+### Where and when
+
+- On-premise
+- Cloud
+- Bare metal
+- VMs
+
+## Connecting to Postgre
+
+### Via Cli
+
